@@ -9,7 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Tiny tapeout example from WOKWI.  Modifying the inputs will light the LEDS
+Tiny tapeout example from WOKWI.  Modifying the inputs will light the LEDS [Tiny Tapeout Puzzles](https://tinytapeout.com/digital_design/puzzle_adder/)
+
+
+This design implements the extra-credit 4-bit full-adder with carry.
 
 ## How to test
 
