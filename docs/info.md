@@ -9,15 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Tiny tapeout example from WOKWI.  Modifying the inputs will light the LEDS [Tiny Tapeout Puzzles](https://tinytapeout.com/digital_design/puzzle_adder/)
+IEEE is proud to sponsor the Tiny Tapeout Workshop in San Diego this November 2024, in collaboration with UCSD and Tiny Tapeout, founded by Matt Venn. This workshop offers students worldwide a hands-on experience in semiconductor design, guiding them through the complete workflow all the way to tapeout. Making this process accessible empowers the next generation of engineers and technologists to understand and participate in semiconductor innovation. We extend our gratitude to UCSD and Tiny Tapeout for creating this incredible learning opportunity.  
 
-
-This design implements the extra-credit 4-bit full-adder with carry.
+This tile will turn the various line segments of a a digital number, including a period. By toggling the inputs, the segments will turn on and off.   
 
 ## How to test
 
-Change the inputs outputs
+Toggle the inputs and see the segments turn on and off.  This can be extended to larger displays and uses.  
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), LEDS
+Digital Display - segmants plus a period
